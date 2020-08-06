@@ -142,5 +142,99 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
+## [Jinja Template - GradientAble](https://jinja2-gradientable.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Gradient Able** (Free Version) by **CodedThemes**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [Gradient Able](https://codedthemes.com/item/gradient-able-bootstrap-lite/?ref=appseed)
+
+*Vendor Notes* -Gradient Able Bootstrap 4 Free/Lite Admin Template is a complete solution for your dashboard creation. The default layout version comes with limited options like Google optimized, font integration, high speed, mature & sophisticated, and extremely well-organized code which makes free Gradient Able a fully flexible solution for any backend application project.
+
+<br />
+
+![Jinja Template - GradientAble.](https://raw.githubusercontent.com/app-generator/jinja2-gradientable/master/media/jinja2-gradientable-screen.png)
+
+<br />
+
+## [Jinja Template - CoreUI](https://theme-jinja2-coreui.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **CoreUI Dashboard** (Free Version) by **CoreUI** - v3.2.0
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [CoreUI Free Dashboard](https://coreui.io/bootstrap/?ref=appseed)
+
+*Vendor Notes* - CoreUI is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. 
+It goes way beyond hitherto admin templates thanks to transparent code and file structure. 
+And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high-quality icons.
+
+CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
+
+<br />
+
+![Jinja Template - CoreUI.](https://raw.githubusercontent.com/app-generator/theme-jinja2-coreui/master/media/theme-jinja2-coreui-screen.png)
+
+<br />
+
+## [Jinja Template - AdminT](https://theme-jinja2-admint.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **AdminT Dashboard** (Free Version) by **YooKits**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** (preserve the footer credit to YooKits)
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [AdminT (Free Version)](https://yookits.com/product/admint-bootstrap-admin-template/?ref=appseed)
+
+*Vendor Notes* - **[AdminT](https://yookits.com/product/admint-bootstrap-admin-template/?ref=appseed)** is the swiss army knife of the dashboard templates. 
+You can create applications of any kind with it. We carefully crafted every component based on a cohesive design system. Your app will look pro with Admint magic. It’s completely free & open-source. Grab it today and build beautiful apps.
+
+<br />
+
+![Jinja Template - AdminT.](https://raw.githubusercontent.com/app-generator/theme-jinja2-admint/master/media/theme-jinja2-admint-screen.png)
+
+<br />
+
+## [Jinja Template - Quick UI](https://theme-jinja2-quick-uikit.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Quick** (Free Version) by **Webpixels**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [Quick by Webpixels](https://webpixels.io/themes/quick-website-ui-kit/?ref=appseed)
+
+*Vendor Notes* - The design of Quick is 100% responsive - it instantly adapts to all modern browsers and resolutions. You can now be sure you'll grab your users' attention with any of the pre-built page examples.
+Plan, build and launch beautiful and consistent user interfaces for the web that drives meaningful engagement and growth for your brand.
+
+<br />
+
+![Jinja Template - Quick UI.](https://raw.githubusercontent.com/app-generator/theme-jinja2-quick-uikit/master/media/theme-jinja2-quick-uikit-screen.png)
+
+<br />
+
 ---
 Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
