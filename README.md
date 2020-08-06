@@ -74,5 +74,32 @@ Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-w
 
 <br />
 
+# [Jinja2 Template - Black Dashboard](https://jinja2-black-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Black Dashboard** (Free Version) by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- [Jinja2 Black Dashboard](https://jinja2-black-dashboard.appseed.us/) - LIVE Demo
+
+<br />
+
+> UI Kit - [Black Dashboard](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200)
+
+*Vendor Notes* - **[Black Dashboard](https://www.creative-tim.com/product/black-dashboard?AFFILIATE=128200)** is a beautiful Bootstrap 4 Admin Dashboard with a huge number of components built to fit together and look amazing.
+If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Black Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+
+<br />
+
+![Jinja2 Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-black-dashboard/master/media/jinja2-black-dashboard-screen.png)
+
+<br />
+
+<br />
+
 ---
 Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
