@@ -47,6 +47,6 @@ For more information about this template engine please access the links:
 
 <br />
 
-| Item | License | Demo | Sources |  |
-| --- | --- | --- | --- | --- |
-Jinja AdminLTE | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte) | 
+| Item | License | Demo | Sources |
+| --- | --- | --- | --- |
+Jinja AdminLTE | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
