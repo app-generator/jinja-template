@@ -74,7 +74,7 @@ Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-w
 
 <br />
 
-# [Jinja2 Template - Black Dashboard](https://jinja2-black-dashboard.appseed.us/)
+## [Jinja Template - Black Dashboard](https://jinja2-black-dashboard.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -83,7 +83,6 @@ Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-w
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-- [Jinja2 Black Dashboard](https://jinja2-black-dashboard.appseed.us/) - LIVE Demo
 
 <br />
 
@@ -95,9 +94,51 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
-![Jinja2 Black Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-black-dashboard/master/media/jinja2-black-dashboard-screen.png)
+![Jinja Template - Black Dashboard.](https://raw.githubusercontent.com/app-generator/jinja2-black-dashboard/master/media/jinja2-black-dashboard-screen.png)
 
 <br />
+
+## [Jinja Template - AdminLTE](https://jinja2-adminlte.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **AdminLTE** by **ColorLib**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [AdminLTE](https://adminlte.io/)
+
+*Vendor Notes* - AdminLTE is a fully responsive administration template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops
+
+<br />
+
+![Jinja Template - AdminLTE.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
+
+<br />
+
+## [Jinja Template - Adminator](https://jinja2-adminator.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Adminator** (Free Version) by **ColorLib**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> UI Kit - [Adminator](https://colorlib.com/polygon/adminator/?ref=appseed)
+
+*Vendor Notes* - Adminator is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications, and some useful widgets. The modern and clean UI makes this design a good candidate for your next project.
+
+<br />
+
+![Jinja Template - Adminator.](https://raw.githubusercontent.com/app-generator/jinja2-adminator/master/media/jinja2-adminator-screen.png)
 
 <br />
 
