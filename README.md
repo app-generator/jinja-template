@@ -43,10 +43,36 @@ For more information about this template engine please access the links:
 
 ## Jinja2 Templates - Open-source
 
-> Free Jinja templates that can be used for hobby & commercial projects
+> Free Jinja templates that can be used for hobby & commercial projects.
 
 <br />
 
-| Item | License | Demo | Sources |
-| --- | --- | --- | --- |
-Jinja AdminLTE | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
+| Item | Provider | License | - | - |
+| --- | --- | --- | --- | --- |
+Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
+Jinja AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
+Jinja Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
+Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-gradientable)
+Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
+Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
+Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
+
+<br />
+
+## Jinja2 Templates - Commercial
+
+> Jinja templates that require a license.
+
+<br />
+
+| Item | Provider | License | - | - |
+| --- | --- | --- | --- | --- |
+Argon Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-argon-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-argon-dashboard-pro)
+Material Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-material-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-material-dashboard-pro)
+Black Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-black-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-black-dashboard-pro)
+Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-wpx-pro.appseed.us/) | [Github](https://github.com/app-generator/jinja2-material-dashboard-wpx-pro)
+
+<br />
+
+---
+Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
