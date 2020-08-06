@@ -236,5 +236,121 @@ Plan, build and launch beautiful and consistent user interfaces for the web that
 
 <br />
 
+## [Jinja Template - Argon Dashboard PRO](https://theme-jinja2-argon-dashboard-pro.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Argon Dashboard PRO** by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> Used by
+
+- [Flask Dashboard - Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
+- [Django Dashboard - Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
+
+<br />
+
+> UI Kit - [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro/?ref=appseed)
+
+*Vendor Notes* - **Argon Dashboard PRO** is built with over 200 individual components, giving you the freedom of choosing and combining. 
+All components can take variations in color, that you can easily modify using Sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+
+<br />
+
+![Jinja Template - Argon Dashboard PRO.](https://raw.githubusercontent.com/app-generator/theme-jinja2-argon-dashboard-pro/master/media/theme-jinja2-argon-dashboard-pro-screen.png)
+
+<br />
+
+## [Jinja2 Template - Material Dashboard PRO](https://theme-jinja2-material-dashboard-pro.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Material Dashboard PRO** by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> Used by
+
+- [Flask Dashboard - Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro)
+- [Django Dashboard - Material PRO](https://appseed.us/admin-dashboards/django-dashboard-material-pro)
+
+<br />
+
+> UI Kit - [Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro/?AFFILIATE=128200)
+
+*Vendor Notes* - **[Material Dashboard PRO](https://www.creative-tim.com/product/material-dashboard-pro/?AFFILIATE=128200)** is a Premium Material Bootstrap 4 Admin with a fresh, new design inspired by Google's Material Design.
+It is based on the popular Bootstrap 4 framework and comes packed with multiple third-party plugins.
+All components are built to fit perfectly with each other while aligning to the material concepts.
+
+<br />
+
+![Jinja2 Theme - Material Dashboard PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2-material-dashboard-pro/master/media/theme-jinja2-material-dashboard-pro-screen.png)
+
+<br />
+
+## [Jinja Template - Black Dashboard PRO](https://theme-jinja2-black-dashboard-pro.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Black Dashboard PRO** by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> Used by
+
+- [Flask Dashboard - Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+- [Django Dashboard - Black PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+
+<br />
+
+> UI Kit - [Black Dashboard PRO](https://themes.getbootstrap.com/product/black-dashboard-pro-premium-bootstrap-4-admin/)
+
+*Vendor Notes* - Black Dashboard PRO is a beautiful Bootstrap 4 Admin Dashboard that comes in 2 versions: Dark and Light Mode. 
+If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+
+<br />
+
+![Jinja Template - Black Dashboard PRO.](https://raw.githubusercontent.com/app-generator/theme-jinja2-black-dashboard-pro/master/media/theme-jinja2-black-dashboard-pro-screen.png)
+
+<br />
+
+## [Jinja Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **MaterialPro Dashboard** (Premium Version) by **WrapPixel**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
+- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> Used by
+
+- [Flask Dashboard - Material PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
+- [Django Dashboard - Material PRO Wpx](https://appseed.us/admin-dashboards/django-material-dashboard-wpx-pro)
+
+<br />
+
+> UI Kit - [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed)
+
+*Vendor Notes* - WrapPixel’s MaterialPro Bootstrap Admin is a premium bootstrap material design template comes packed with new, fresh, and attractive designs and ready-to-use components. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the materialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
+
+[MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed) Bootstrap Admin dashboard is versatile, user-friendly and has a clean code structure that optimizes the development cost and time. The smoothness and efficiency in using a customizable admin dashboard are felt with the reliable design inspiration by Google’s material design.
+
+<br />
+
+![Jinja Template - Material PRO Wpx.](https://raw.githubusercontent.com/app-generator/jinja2-material-dashboard-wpx-pro/master/media/jinja2-material-dashboard-wpx-pro-screen.png)
+
+<br />
+
 ---
 Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
