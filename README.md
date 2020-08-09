@@ -109,10 +109,6 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
-> Links
-
-- [Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/) - LIVE Demo
-
 <br />
 
 > UI Kit - [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
