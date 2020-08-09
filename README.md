@@ -56,6 +56,7 @@ Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.apps
 Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
+Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
 
 <br />
 
@@ -95,6 +96,32 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - Black Dashboard.](https://raw.githubusercontent.com/app-generator/jinja2-black-dashboard/master/media/jinja2-black-dashboard-screen.png)
+
+<br />
+
+## [Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Star Admin** (Free Version) by **BootstrapDash**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> Links
+
+- [Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/) - LIVE Demo
+
+<br />
+
+> UI Kit - [Star Admin](https://www.bootstrapdash.com/product/star-admin-free/?ref=23)
+
+*Vendor Notes* - Star admin is a beautifully designed admin template featuring a fine selection of useful Bootstrap components and elements. Star Admin has an impressive typography that compliments exceedingly with its colorful and elegant interface.The pre-built pages of the templates are intuitive and very well-designed. Star Admin is sure to make your development process truly enjoyable.
+
+<br />
+
+![Jinja Template - Star Admin.](https://raw.githubusercontent.com/app-generator/jinja-template-star-admin/master/media/jinja-template-star-admin-screen.png)
 
 <br />
 
