@@ -41,7 +41,7 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Jinja2 Templates - Open-source
+## Jinja Templates - Open-source
 
 > Free Jinja templates that can be used for hobby & commercial projects.
 
@@ -50,6 +50,7 @@ For more information about this template engine please access the links:
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
 Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
+Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
 Jinja AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
 Jinja Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
 Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-gradientable)
@@ -60,7 +61,7 @@ Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admi
 
 <br />
 
-## Jinja2 Templates - Commercial
+## Jinja Templates - Commercial
 
 > Jinja templates that require a license.
 
@@ -140,6 +141,26 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - AdminLTE.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
+
+<br />
+
+## [Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Paper Dashboard** (Free Version) by **Themesberg**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200)
+
+*Vendor Notes* - Paper Dashboard2 is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard 2 comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+
+<br />
+
+![Jinja Template - Paper Dashboard.](https://raw.githubusercontent.com/app-generator/jinja-template-paper-dashboard/master/media/jinja-template-paper-dashboard-screen.png)
 
 <br />
 
