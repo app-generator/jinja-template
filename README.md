@@ -6,7 +6,7 @@
 
 ## What is [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/)
 
-Jinja is a Python template engine used to generate HTML or XML returned to the user via an HTTP response.
+[Jinja](https://jinja.palletsprojects.com/en/2.11.x/) is a Python template engine used to generate HTML or XML returned to the user via an HTTP response.
 For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values.
 
 This modern template engine, basically help us to win time. By using it we get `out-of-the-box` some really nice features:
@@ -49,15 +49,19 @@ For more information about this template engine please access the links:
 
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
-Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
+Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
+Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
 Jinja AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
 Jinja Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
 Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-gradientable)
+Jinja DattaAble | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-dattaable-dashboard)
 Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
-Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
+Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
+Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
+Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
 
 <br />
 
@@ -141,26 +145,6 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - AdminLTE.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
-
-<br />
-
-## [Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/)
-
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
-
-- UI Kit: **Paper Dashboard** (Free Version) by **Themesberg**
-- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-
-> UI Kit - [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200)
-
-*Vendor Notes* - Paper Dashboard2 is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard 2 comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
-
-<br />
-
-![Jinja Template - Paper Dashboard.](https://raw.githubusercontent.com/app-generator/jinja-template-paper-dashboard/master/media/jinja-template-paper-dashboard-screen.png)
 
 <br />
 
