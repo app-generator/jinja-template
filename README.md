@@ -50,7 +50,7 @@ For more information about this template engine please access the links:
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
 Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
-Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
+Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-material-dashboard)
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
 Jinja AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
 Jinja Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
