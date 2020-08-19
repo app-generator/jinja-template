@@ -104,6 +104,26 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 <br />
 
+## [Jinja Template - Paper Dashboard](https://jinja-template-paper-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Paper Dashboard** (Free Version) by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - [Paper Dashboard](https://www.creative-tim.com/product/paper-dashboard-2?AFFILIATE=128200)
+
+*Vendor Notes* - Paper Dashboard2 is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look neat and organized. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Paper Dashboard 2 comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
+
+<br />
+
+![Jinja Template - Paper Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-paper-dashboard/master/media/jinja-template-paper-dashboard-screen.png)
+
+<br />
+
 ## [Jinja Template Star Admin](https://jinja-template-star-admin.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
@@ -167,6 +187,28 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - Adminator.](https://raw.githubusercontent.com/app-generator/jinja2-adminator/master/media/jinja2-adminator-screen.png)
+
+<br />
+
+## [Jinja Template - DattaAble](https://jinja-template-dattaable-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **DattaAble** (Free Version) by **CodedThemes**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - DattaAble (Free Version)
+
+*Vendor Notes* - Datta Able Bootstrap Lite is the most stylised Bootstrap 4 Lite Admin Template, around all other Lite/Free admin templates in the market. It comes with high feature-rich pages and components with fully developer centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing & code optimization process, for making this performance and design-centric backend application.
+
+With performance, Datta Able rendering is fast in all major browser. It is passed through a good score in Google Page Speed, Pingdom, gtMetrix. Code passed via w3 validators with all w3 standards. This admin panel is fully responsive and tested in all retina devices. Datta Able provides multiple choices of widget, chart icons and many more features support. All come’s with a color combination of pleasant look and feel.
+
+<br />
+
+![Jinja DattaAble - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-dattaable-dashboard/master/media/jinja-template-dattaable-dashboard-screen.png)
 
 <br />
 
