@@ -49,7 +49,7 @@ For more information about this template engine please access the links:
 
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
-| **[Admin Dashboards](https://appseed.us/admin-dashboards)** | - | - | - | - |
+| **[Admin Dashboards](https://appseed.us/admin-dashboards)** |   |   |   |   |
 Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
 Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-material-dashboard)
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
@@ -61,7 +61,7 @@ Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | 
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
 Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
 Jinja Chameleon Dashboard | ThemeSelection | MIT | [Demo](https://jinja-template-chameleon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-chameleon-dashboard)
-| **[UI Kits](https://appseed.us/ui-kit)** | - | - | - | - |
+| **[UI Kits](https://appseed.us/ui-kit)** |   |   |   |   |
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
 Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
