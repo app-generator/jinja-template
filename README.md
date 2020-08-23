@@ -49,6 +49,7 @@ For more information about this template engine please access the links:
 
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
+| **[Admin Dashboards](https://appseed.us/admin-dashboards)** | - | - | - | - |
 Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
 Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-material-dashboard)
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
@@ -59,6 +60,8 @@ Jinja DattaAble | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-da
 Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
 Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
+Jinja Chameleon Dashboard | ThemeSelection | MIT | [Demo](https://jinja-template-chameleon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-chameleon-dashboard)
+| **[UI Kits](https://appseed.us/ui-kit)** | - | - | - | - |
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
 Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
@@ -257,6 +260,27 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 <br />
 
 ![Jinja Template - CoreUI.](https://raw.githubusercontent.com/app-generator/theme-jinja2-coreui/master/media/theme-jinja2-coreui-screen.png)
+
+<br />
+
+## [Jinja Template - Chameleon Dashboard](https://jinja-template-chameleon-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Chameleon Admin Lite** (Free Version) by **ThemeSelection**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - Chameleon Admin Lite
+
+*Vendor Notes* - Chameleon Admin Lite is a Free Modern Bootstrap 4 WebApp & Admin Dashboard Html Template elegant design, clean and organised code.
+Chameleon admin template is powered with HTML 5, CSS 3, Bootstrap 4, SASS, Gulp. Responsive design which looks great on Desktops, Tablets, and Mobile Devices. Chameleon bootstrap admin template comes with starter kit which will help developers to get started quickly.
+
+<br />
+
+![Jinja Chameleon Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-chameleon-dashboard/master/media/jinja-template-chameleon-dashboard-screen.png)
 
 <br />
 
