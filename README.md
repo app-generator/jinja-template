@@ -61,6 +61,7 @@ Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | 
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
 Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
 Jinja Chameleon Dashboard | ThemeSelection | MIT | [Demo](https://jinja-template-chameleon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-chameleon-dashboard)
+Jinja Sb Admin Dashboard | StartBootstrap | MIT | [Demo](https://jinja-template-sb-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-sb-admin)
 | **[UI Kits](https://appseed.us/ui-kit)** |   |   |   |   |
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
@@ -124,6 +125,26 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - Paper Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-paper-dashboard/master/media/jinja-template-paper-dashboard-screen.png)
+
+<br />
+
+# [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **SB Admin** (Free Version) by **StartBootstrap**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - [SB Admin](https://startbootstrap.com/templates/sb-admin/?ref=appseed)
+
+*Vendor Notes* - SB Admin is a free, open source, MIT licensed Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or dashboard UI's for your next project.
+
+<br />
+
+![Jinja Template - Sb Admin - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-sb-admin/master/media/jinja-template-sb-admin-screen.png)
 
 <br />
 
