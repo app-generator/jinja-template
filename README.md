@@ -50,6 +50,7 @@ For more information about this template engine please access the links:
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
 | **[Admin Dashboards](https://appseed.us/admin-dashboards)** |   |   |   |   |
+Jinja Argon Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-argon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-argon-dashboard)
 Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
 Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-material-dashboard)
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
@@ -105,6 +106,27 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 <br />
 
 ![Jinja Template - Black Dashboard.](https://raw.githubusercontent.com/app-generator/jinja2-black-dashboard/master/media/jinja2-black-dashboard-screen.png)
+
+<br />
+
+## [Jinja Template - Argon Dashboard](https://jinja-template-argon-dashboard.appseed.us/)
+
+> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+
+- UI Kit: **Argon Dashboard** (Free Version) by **Creative-Tim**
+- Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
+- **[MIT License](https://github.com/app-generator/license-mit)**
+- Free support via **Github** issues tracker
+- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+
+> UI Kit - [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200)
+
+Argon Dashboard is built with over 100 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+<br />
+
+![Jinja Template - Argon Dashboard, thumbnail image.](https://raw.githubusercontent.com/app-generator/jinja-template-argon-dashboard/master/media/jinja-template-argon-dashboard-screen.png)
 
 <br />
 
