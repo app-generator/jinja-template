@@ -1,4 +1,4 @@
-# Jinja Template
+# [Jinja Template](https://appseed.us/jinja-template)
 
 > A curated list with Jinja2 templates provided by AppSeed from well-known, modern UI Kits - Free and commercial projects.
 
@@ -493,4 +493,4 @@ If you are looking for a tool to manage and visualize data about your business, 
 <br />
 
 ---
-Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
+[Jinja Template](https://appseed.us/jinja-template) - A curated list. Index provided by [AppSeed](https://appseed.us/)
