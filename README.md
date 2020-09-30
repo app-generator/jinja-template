@@ -41,6 +41,22 @@ For more information about this template engine please access the links:
 
 <br />
 
+## Latest Project - [Jinja Pixel UI](https://appseed.us/jinja-template/jinja-template-pixel-uikit)
+
+ Pixel is a free, fully responsive and modern Bootstrap 4 UI Kit that will help you build creative and professional websites. Use our components and sections, switch some Sass variables to build and arrange pages to best suit your needs. Pixel is a premium extension of the famous Bootstrap CSS Framework featuring pricing cards, profile cards, timelines and many more. All components are created to comply as much as possible with the WCAG 2.1 standards.
+ 
+> Links
+
+- [Jinja Pixel Lite](https://appseed.us/jinja-template/jinja-template-pixel-uikit) - Product page
+- [Jinja Pixel Lite - Demo](https://jinja-template-pixel-uikit.appseed.us/) - LIVE Demo
+- **[Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)** - the premium version
+
+<br />
+
+![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-intro.gif)
+
+<br />
+
 ## Jinja Templates - Open-source
 
 > Free Jinja templates that can be used for hobby & commercial projects.
