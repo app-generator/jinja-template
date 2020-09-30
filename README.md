@@ -53,7 +53,7 @@ For more information about this template engine please access the links:
 
 <br />
 
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-intro.gif)
+![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-pixel-uikit/master/media/jinja-template-pixel-uikit-screen.png)
 
 <br />
 
