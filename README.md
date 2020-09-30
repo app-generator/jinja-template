@@ -99,6 +99,7 @@ Argon Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-argon-da
 Material Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-material-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-material-dashboard-pro)
 Black Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-black-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-black-dashboard-pro)
 Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-wpx-pro.appseed.us/) | [Github](https://github.com/app-generator/jinja2-material-dashboard-wpx-pro)
+[Pixel UI PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) | Themesberg | EULA | [Demo](https://jinja-pixel-uikit-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)
 
 <br />
 
