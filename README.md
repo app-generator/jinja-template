@@ -4,7 +4,7 @@
 
 <br />
 
-## What is [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/)
+## [What is Jinja](https://docs.appseed.us/what-is/jinja/)
 
 [Jinja](https://jinja.palletsprojects.com/en/2.11.x/) is a Python template engine used to generate HTML or XML returned to the user via an HTTP response.
 For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values.
@@ -41,20 +41,20 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Latest Project - [Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro)
+## Latest Project - [Datta Able PRO](https://appseed.us/jinja-template/jinja-datta-able-pro)
 
-Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utility classes that can help cut down CSS bloat and modify CSS components instantly.
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Datta Able is the most stylish Bootstrap 4 Admin Template compare to all other Bootstrap admin templates. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing and code optimization process, for making this performance and design-centric backend application.
+
+With Datta Able Dashboard Template we have provided all possible prebuilt admin template layouts.  Which gives you the best selection choice of your backend template need for your projects. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
  
 > Links
 
-- [Jinja Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
-- [Jinja Azia Dashboard PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
-- [Jinja Azia Dashboard PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
+- [Jinja Datta Able PRO](https://appseed.us/jinja-template/jinja-datta-able-pro) - Product page
+- [Jinja Datta Able PRO - Demo](https://jinja-datta-able-pro.appseed.us/) - LIVE Demo
 
 <br />
 
-![Jinja Azia Dashboard PRO - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-azia-dashboard-pro/main/media/jinja-azia-dashboard-pro-intro.gif)
+![Jinja Template - Datta Able, Jinja seed project coded by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-datta-able-pro/main/media/jinja-datta-able-pro-screen.png)
 
 <br />
 
@@ -96,6 +96,7 @@ Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.
 
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
+Datta Able PRO | CodedThemes | EULA | [Demo](https://jinja-datta-able-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-datta-able-pro)
 Azia Dashboard PRO | Creative-Tim | EULA | [Demo](https://jinja-azia-dashboard-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-azia-dashboard-pro)
 Argon Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-argon-dashboard-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-template-argon-pro)
 Material Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-material-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-material-dashboard-pro)
@@ -481,6 +482,23 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 <br />
 
+## [Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro)
+
+Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utility classes that can help cut down CSS bloat and modify CSS components instantly.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+ 
+> Links
+
+- [Jinja Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
+- [Jinja Azia Dashboard PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
+- [Jinja Azia Dashboard PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
+
+<br />
+
+![Jinja Azia Dashboard PRO - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-azia-dashboard-pro/main/media/jinja-azia-dashboard-pro-screen.png)
+
+<br />
+
 ## [Jinja Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
@@ -501,7 +519,7 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 > UI Kit - [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed)
 
-*Vendor Notes* - WrapPixel’s MaterialPro Bootstrap Admin is a premium bootstrap material design template comes packed with new, fresh, and attractive designs and ready-to-use components. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the materialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
+WrapPixel’s MaterialPro Bootstrap Admin is a premium bootstrap material design template comes packed with new, fresh, and attractive designs and ready-to-use components. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the materialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
 
 [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed) Bootstrap Admin dashboard is versatile, user-friendly and has a clean code structure that optimizes the development cost and time. The smoothness and efficiency in using a customizable admin dashboard are felt with the reliable design inspiration by Google’s material design.
 
