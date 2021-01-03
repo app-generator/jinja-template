@@ -77,6 +77,7 @@ Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.apps
 Jinja DattaAble | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-dattaable-dashboard)
 Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
+Jinja Azia Dashboard | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
 Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
 Jinja Corona Dark | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
 Jinja Chameleon Dashboard | ThemeSelection | MIT | [Demo](https://jinja-template-chameleon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-chameleon-dashboard)
