@@ -80,6 +80,8 @@ U Jinja Corona Dark | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.app
 | ****************** |  |  |   |   |
 U Jinja AdminKit | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
 | ****************** |  |  |   |   |
+U Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
+| ****************** |  |  |   |   |
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
 Jinja Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
 Jinja Now UI Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-now-ui-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-now-ui-dashboard) 
@@ -97,7 +99,6 @@ Jinja Sb Admin 2 | StartBootstrap | MIT | [Demo](https://jinja-template-sb-admin
 | **[UI Kits](https://appseed.us/ui-kit)** |   |   |   |   |
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
-Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
 
 <br />
 
