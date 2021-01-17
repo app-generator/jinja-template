@@ -80,6 +80,7 @@ U Jinja Corona Dark | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.app
 | ****************** |  |  |   |   |
 U Jinja AdminKit | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
 | ****************** |  |  |   |   |
+U Jinja Volt | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
 U Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
 U Jinja Swipe | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
 | ****************** |  |  |   |   |
