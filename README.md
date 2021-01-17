@@ -71,18 +71,18 @@ U Jinja Argon Dashboard | Creative-Tim | MIT | [Demo](https://jinja-argon-dashbo
 U Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja-black-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-black-dashboard) 
 U Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-material-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-material-dashboard) 
 | ****************** |  |  |   |   |
-U Jinja Gradient Able | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja-gradient-able)
-U Jinja Datta Able | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-datta-able)
+**Jinja Gradient Able** | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja-gradient-able)
+**Jinja Datta Able** | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-datta-able)
 | ****************** |  |  |   |   |
-U Jinja Azia Dashboard | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
-U Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
-U Jinja Corona Dark | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
+**Jinja Azia Dashboard** | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
+**Jinja Star Admin** | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
+**Jinja Corona Dark** | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
 | ****************** |  |  |   |   |
-U Jinja AdminKit | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
+**Jinja AdminKit** | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
 | ****************** |  |  |   |   |
-U Jinja Volt | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
-U Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
-U Jinja Swipe | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
+**Jinja Volt** | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
+**Jinja Pixel Lite** | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
+**Jinja Swipe** | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
 | ****************** |  |  |   |   |
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
 Jinja Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
