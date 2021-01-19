@@ -84,6 +84,9 @@ With Datta Able Dashboard Template we have provided all possible prebuilt admin 
 **Jinja Pixel Lite** | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
 **Jinja Swipe** | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
 | ****************** |  |  |   |   |
+**Jinja Atlantis Lite** | ThemeKita | MIT | [Demo](https://jinja-atlantis-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-lite)
+**Jinja Atlantis dark** | ThemeKita | MIT | [Demo](https://jinja-atlantis-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-dark)
+| ****************** |  |  |   |   |
 Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
 Jinja Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
 Jinja Now UI Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-now-ui-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-now-ui-dashboard) 
