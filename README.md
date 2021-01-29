@@ -190,7 +190,7 @@ You will save a lot of time going from prototyping to full-functional code, beca
 
 <br />
 
-# [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
+## [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
