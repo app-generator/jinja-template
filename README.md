@@ -41,20 +41,20 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Latest Project - [Datta Able PRO](https://appseed.us/jinja-template/jinja-datta-able-pro)
+## Latest Project - [Jinja Soft UI Design System](https://github.com/app-generator/jinja-soft-ui-free)
 
-Datta Able is the most stylish Bootstrap 4 Admin Template compare to all other Bootstrap admin templates. It comes with high feature-rich pages and components with fully developer-centric code. Before developing Datta Able our key points were performance and design. While developing we have gone through various testing and code optimization process, for making this performance and design-centric backend application.
+Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
-With Datta Able Dashboard Template we have provided all possible prebuilt admin template layouts.  Which gives you the best selection choice of your backend template need for your projects. Comes with error/bug-free, well structured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.uctured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
  
 > Links
 
-- [Jinja Datta Able PRO](https://appseed.us/jinja-template/jinja-datta-able-pro) - Product page
-- [Jinja Datta Able PRO - Demo](https://jinja-datta-able-pro.appseed.us/) - LIVE Demo
+- [LIVE Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
+- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
 
-![Jinja Template - Datta Able, Jinja seed project coded by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-datta-able-pro/main/media/jinja-datta-able-pro-screen.png)
+![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-free/master/media/jinja-soft-ui-free-screen-contact.png)
 
 <br />
 
