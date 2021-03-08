@@ -1,10 +1,10 @@
-# Jinja Template
+# [Jinja Template](https://appseed.us/jinja-template)
 
 > A curated list with Jinja2 templates provided by AppSeed from well-known, modern UI Kits - Free and commercial projects.
 
 <br />
 
-## What is [Jinja2](https://jinja.palletsprojects.com/en/2.11.x/)
+## [What is Jinja](https://docs.appseed.us/what-is/jinja/)
 
 [Jinja](https://jinja.palletsprojects.com/en/2.11.x/) is a Python template engine used to generate HTML or XML returned to the user via an HTTP response.
 For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values.
@@ -41,6 +41,23 @@ For more information about this template engine please access the links:
 
 <br />
 
+## Latest Project - [Jinja Soft UI Design System](https://github.com/app-generator/jinja-soft-ui-free)
+
+Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.uctured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
+ 
+> Links
+
+- [LIVE Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
+- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
+
+<br />
+
+![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-free/master/media/jinja-soft-ui-free-screen-contact.png)
+
+<br />
+
 ## Jinja Templates - Open-source
 
 > Free Jinja templates that can be used for hobby & commercial projects.
@@ -50,24 +67,43 @@ For more information about this template engine please access the links:
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
 | **[Admin Dashboards](https://appseed.us/admin-dashboards)** |   |   |   |   |
-Jinja Argon Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-argon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-argon-dashboard)
-Jinja Black Dashboard | Creative-Tim | MIT | [Demo](https://jinja2-black-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-black-dashboard)
-Jinja Material Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-material-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-material-dashboard)
-Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-paper-dashboard)
+**Jinja Argon Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-argon-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-argon-dashboard) 
+**Jinja Black Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-black-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-black-dashboard) 
+**Jinja Material Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-material-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-material-dashboard) 
+| ****************** |  |  |   |   |
+**Jinja Gradient Able** | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja-gradient-able)
+**Jinja Datta Able** | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-datta-able)
+| ****************** |  |  |   |   |
+**Jinja Azia Dashboard** | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
+**Jinja Star Admin** | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
+**Jinja Corona Dark** | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
+| ****************** |  |  |   |   |
+**Jinja AdminKit** | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
+| ****************** |  |  |   |   |
+**Jinja Volt** | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
+**Jinja Pixel Lite** | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
+**Jinja Swipe** | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
+| ****************** |  |  |   |   |
+**Jinja Atlantis Lite** | ThemeKita | MIT | [Demo](https://jinja-atlantis-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-lite)
+**Jinja Atlantis dark** | ThemeKita | MIT | [Demo](https://jinja-atlantis-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-dark)
+| ****************** |  |  |   |   |
+Jinja Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
+Jinja Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
+Jinja Now UI Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-now-ui-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-now-ui-dashboard) 
+| ****************** |  |  |   |   |
 Jinja AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
 Jinja Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
-Jinja GradientAble | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-gradientable)
-Jinja DattaAble | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-dattaable-dashboard)
+| ****************** |  |  |   |   |
 Jinja CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
-Jinja Star Admin | BootstrapDash | MIT | [Demo](https://jinja-template-star-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-star-admin)
+| ****************** |  |  |   |   |
 Jinja Chameleon Dashboard | ThemeSelection | MIT | [Demo](https://jinja-template-chameleon-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-chameleon-dashboard)
+| ****************** |  |  |   |   |
 Jinja Sb Admin 3 | StartBootstrap | MIT | [Demo](https://jinja-template-sb-admin.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-sb-admin)
 Jinja Sb Admin 2 | StartBootstrap | MIT | [Demo](https://jinja-template-sb-admin-2.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-sb-admin-2)
 | **[UI Kits](https://appseed.us/ui-kit)** |   |   |   |   |
 Jinja Quick UI | Webpixels | MIT | [Demo](https://theme-jinja2-quick-uikit.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-quick-uikit)
 Jinja Boomerang UI | Webpixels | MIT | [Demo](https://jinja-template-boomerang-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-boomerang-uikit)
-Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.appseed.us/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
 
 <br />
 
@@ -79,10 +115,13 @@ Jinja Pixel Lite | Themesberg | MIT | [Demo](https://jinja-template-pixel-uikit.
 
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
-Argon Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-argon-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-argon-dashboard-pro)
+Datta Able PRO | CodedThemes | EULA | [Demo](https://jinja-datta-able-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-datta-able-pro)
+Azia Dashboard PRO | Creative-Tim | EULA | [Demo](https://jinja-azia-dashboard-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-azia-dashboard-pro)
+Argon Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-argon-dashboard-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-template-argon-pro)
 Material Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-material-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-material-dashboard-pro)
 Black Dashboard PRO | Creative-Tim | EULA | [Demo](https://theme-jinja2-black-dashboard-pro.appseed.us/) | [Github](https://github.com/app-generator/theme-jinja2-black-dashboard-pro)
 Material PRO Wpx | WrapPixel | EULA | [Demo](https://jinja2-material-dashboard-wpx-pro.appseed.us/) | [Github](https://github.com/app-generator/jinja2-material-dashboard-wpx-pro)
+[Pixel UI PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) | Themesberg | EULA | [Demo](https://jinja-pixel-uikit-pro.appseed.us/) | [Product](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)
 
 <br />
 
@@ -151,7 +190,7 @@ You will save a lot of time going from prototyping to full-functional code, beca
 
 <br />
 
-# [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
+## [Jinja Template - Sb Admin](https://jinja-template-sb-admin.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -462,6 +501,23 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 <br />
 
+## [Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro)
+
+Azia Dashboard is a Bootstrap 4 admin & dashboard template featuring components that are built to fit perfectly with each other. It offers a clean interface that can be easily adapted to fit your vision and branding. Azia features many essential utility classes that can help cut down CSS bloat and modify CSS components instantly.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+ 
+> Links
+
+- [Jinja Azia Dashboard PRO](https://appseed.us/jinja-template/jinja-azia-dashboard-pro) - Product page
+- [Jinja Azia Dashboard PRO - Demo](https://jinja-azia-dashboard-pro.appseed.us/) - LIVE Demo
+- [Jinja Azia Dashboard PRO - Docs](https://docs.appseed.us/jinja-template/jinja-azia-dashboard-pro/) - Product documentation
+
+<br />
+
+![Jinja Azia Dashboard PRO - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-azia-dashboard-pro/main/media/jinja-azia-dashboard-pro-screen.png)
+
+<br />
+
 ## [Jinja Template - Material PRO Wpx](https://jinja2-material-dashboard-wpx-pro.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
@@ -482,7 +538,7 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 > UI Kit - [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed)
 
-*Vendor Notes* - WrapPixel’s MaterialPro Bootstrap Admin is a premium bootstrap material design template comes packed with new, fresh, and attractive designs and ready-to-use components. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the materialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
+WrapPixel’s MaterialPro Bootstrap Admin is a premium bootstrap material design template comes packed with new, fresh, and attractive designs and ready-to-use components. Based on the popular Bootstrap 4 framework and inspired by Google’s material design, the materialPro Bootstrap Admin template is bundled with multiple third-party plugins that make it an excellent standalone solution.
 
 [MaterialPro Bootstrap Admin](https://www.wrappixel.com/templates/materialpro/?ref=appseed) Bootstrap Admin dashboard is versatile, user-friendly and has a clean code structure that optimizes the development cost and time. The smoothness and efficiency in using a customizable admin dashboard are felt with the reliable design inspiration by Google’s material design.
 
@@ -493,4 +549,4 @@ If you are looking for a tool to manage and visualize data about your business, 
 <br />
 
 ---
-Jinja Template - A curated list. Index provided by [AppSeed](https://appseed.us/)
+[Jinja Template](https://appseed.us/jinja-template) - A curated list. Index provided by [AppSeed](https://appseed.us/)
