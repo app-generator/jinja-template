@@ -1,13 +1,10 @@
 # [Jinja Template](https://appseed.us/jinja-template)
 
-> A curated list with Jinja2 templates provided by AppSeed from well-known, modern UI Kits - Free and commercial projects.
+**Jinja is a Python template** engine used to generate HTML or XML returned to the user via an HTTP response. For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values. 
 
 <br />
 
 ## [What is Jinja](https://docs.appseed.us/what-is/jinja/)
-
-[Jinja](https://jinja.palletsprojects.com/en/2.11.x/) is a Python template engine used to generate HTML or XML returned to the user via an HTTP response.
-For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values.
 
 This modern template engine, basically help us to win time. By using it we get `out-of-the-box` some really nice features:
 
