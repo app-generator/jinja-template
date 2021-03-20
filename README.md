@@ -1,6 +1,6 @@
-# [Jinja Template](https://appseed.us/jinja-template)
+# Jinja Template
 
-**Jinja is a Python template** engine used to generate HTML or XML returned to the user via an HTTP response. For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values. 
+**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh)** is a Python engine used to generate HTML or XML returned to the user via an HTTP response. For those who have not been exposed to a templating language before, such languages essentially contain variables as well as some programming logic, which when evaluated (or rendered into HTML) are replaced with actual values. 
 
 <br />
 
