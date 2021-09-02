@@ -38,7 +38,7 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Latest Project - [Jinja Soft UI Design System](https://github.com/app-generator/jinja-soft-ui-free)
+## Latest Project - [Jinja/Flask Soft UI](https://appseed.us/product/flask-soft-ui-dashboard)
 
 Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
 
@@ -46,8 +46,8 @@ You will save a lot of time going from prototyping to full-functional code, beca
  
 > Links
 
-- [LIVE Demo](https://jinja-soft-ui-free.appseed-srv1.com/) - starter in action
-- More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
+- [Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
+- [Flask Soft UI Dashboard](https://flask-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
