@@ -67,12 +67,12 @@ For more information about this template engine please access the links:
 **Jinja Atlantis Lite** | ThemeKita | MIT | [Demo](https://jinja-atlantis-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-lite)
 **Jinja Atlantis dark** | ThemeKita | MIT | [Demo](https://jinja-atlantis-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-dark)
 | ****************** |  |  |   |   |
-[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
-[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
-[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Now UI Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-now-ui-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-now-ui-dashboard) 
+Jinja Template Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
+Jinja Template Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
+Jinja Template Now UI Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-now-ui-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-now-ui-dashboard) 
 | ****************** |  |  |   |   |
-[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
-[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
+Jinja Template AdminLTE | ColorLb | MIT | [Demo](https://jinja2-adminlte.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminlte)
+Jinja Template Adminator | ColorLb | MIT | [Demo](https://jinja2-adminator.appseed.us/) | [Sources](https://github.com/app-generator/jinja2-adminator)
 | ****************** |  |  |   |   |
 Jinja Template CoreUI | CoreUI | MIT | [Demo](https://theme-jinja2-coreui.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-coreui)
 Jinja Template AdminT | YooKits | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Demo](https://theme-jinja2-admint.appseed.us/) | [Sources](https://github.com/app-generator/theme-jinja2-admint)
