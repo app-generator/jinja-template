@@ -38,23 +38,6 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Latest Project - [Jinja/Flask Soft UI](https://appseed.us/product/flask-soft-ui-dashboard)
-
-Most complex and innovative Design System Made by Creative Tim. Soft UI Design System is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Free Bootstrap 5 UK Kit is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.uctured, well-commented code and regularly with all latest updated code. Which saves your large amount of developing backend application time and it is fully customizable.
- 
-> Links
-
-- [Flask Soft UI Dashboard](https://appseed.us/product/flask-soft-ui-dashboard) - product page
-- [Flask Soft UI Dashboard](https://flask-soft-ui-dashboard.appseed-srv1.com/) - LIVE Demo
-
-<br />
-
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-soft-ui-free/master/media/jinja-soft-ui-free-screen-contact.png)
-
-<br />
-
 ## Jinja Templates - Open-source
 
 > Free Jinja templates that can be used for hobby & commercial projects.
@@ -64,25 +47,25 @@ You will save a lot of time going from prototyping to full-functional code, beca
 | Item | Provider | License | - | - |
 | --- | --- | --- | --- | --- |
 | **[Admin Dashboards](https://appseed.us/admin-dashboards)** |   |   |   |   |
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Argon Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-argon-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-argon-dashboard) 
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Black Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-black-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-black-dashboard) 
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Material Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-material-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-material-dashboard) 
+**Jinja Argon Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-argon-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-argon-dashboard) 
+**Jinja Black Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-black-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-black-dashboard) 
+**Jinja Material Dashboard** | Creative-Tim | MIT | [Demo](https://jinja-material-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-material-dashboard) 
 | ****************** |  |  |   |   |
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Gradient Able** | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja-gradient-able)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Datta Able** | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-datta-able)
+**Jinja Gradient Able** | CodedThemes | MIT | [Demo](https://jinja2-gradientable.appseed.us/) | [Sources](https://github.com/app-generator/jinja-gradient-able)
+**Jinja Datta Able** | CodedThemes | MIT | [Demo](https://jinja-template-dattaable-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-datta-able)
 | ****************** |  |  |   |   |
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Azia Dashboard** | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Star Admin** | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Corona Dark** | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
+**Jinja Azia Dashboard** | BootstrapDash | MIT | [Demo](https://jinja-azia-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-azia-dashboard)
+**Jinja Star Admin** | BootstrapDash | MIT | [Demo](https://jinja-star-admin.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-star-admin)
+**Jinja Corona Dark** | BootstrapDash | MIT | [Demo](https://jinja-corona-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-corona-dark)
 | ****************** |  |  |   |   |
 **[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) AdminKit** | AdminKit.io | MIT | [Demo](https://jinja-adminkit.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-adminkit)
 | ****************** |  |  |   |   |
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Volt** | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Pixel Lite** | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Swipe** | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
+**Jinja Template Volt** | Themesberg | MIT | [Demo](https://jinja-volt-dashboard.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-volt-dashboard)
+**Jinja Pixel Lite** | Themesberg | MIT | [Demo](https://jinja-pixel-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-template-pixel-uikit)
+**Jinja Swipe** | Themesberg | MIT | [Demo](https://jinja-swipe-bootstrap-5.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-swipe-bootstrap-5)
 | ****************** |  |  |   |   |
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Atlantis Lite** | ThemeKita | MIT | [Demo](https://jinja-atlantis-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-lite)
-**[Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Atlantis dark** | ThemeKita | MIT | [Demo](https://jinja-atlantis-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-dark)
+**Jinja Atlantis Lite** | ThemeKita | MIT | [Demo](https://jinja-atlantis-lite.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-lite)
+**Jinja Atlantis dark** | ThemeKita | MIT | [Demo](https://jinja-atlantis-dark.appseed-srv1.com/) | [Sources](https://github.com/app-generator/jinja-atlantis-dark)
 | ****************** |  |  |   |   |
 [Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Paper Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-paper-dashboard.appseed.us/) | [Sources](https://github.com/app-generator/jinja-paper-dashboard) 
 [Jinja Template](https://dev.to/sm0ke/jinja-template-cheat-sheet-and-free-sample-28kh) Light Dashboard | Creative-Tim | MIT | [Demo](https://jinja-template-light-bootstrap.appseed.us/) | [Sources](https://github.com/app-generator/jinja-light-bootstrap) 
