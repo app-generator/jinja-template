@@ -19,7 +19,7 @@ Open-Source **Flask** starter coded on top of **Material Kit 2** (free version).
 
 <br />
 
-## [What is Jinja](https://docs.appseed.us/what-is/jinja/)
+## [What is Jinja](https://docs.appseed.us/content/what-is/jinja)
 
 This modern template engine, basically help us to win time. By using it we get `out-of-the-box` some really nice features:
 
