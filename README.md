@@ -4,13 +4,13 @@
 
 <br />
 
-## Free Sample: [Material Kit 2](https://appseed.us/apps/flask-apps/flask-material-kit)
+## Free Sample: [Material Kit 2](https://appseed.us/product/material-kit/flask/)
 
 Open-Source **Flask** starter coded on top of **Material Kit 2** (free version). For newcomers, Material Kit is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. This simple Flask project can be used to code beautiful websites with a modern design.
 
 > Links
 
-- [Jinja Material Kit](https://appseed.us/apps/flask-apps/flask-material-kit) - product page
+- [Material Kit 2](https://appseed.us/product/material-kit/flask/) - product page
 - [Jinja Material Kit](https://flask-material-kit.appseed-srv1.com/) - LIVE Demo
 
 <br />
