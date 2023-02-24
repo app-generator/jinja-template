@@ -4,11 +4,11 @@
 
 <br />
 
-## [Black Friday 2022](https://appseed.us) - `75%OFF`
+## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
 
-> The campaign is active until `30.NOV` and applies to all products and licenses.
+> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
 
-[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
+[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
 
 <br />
 
