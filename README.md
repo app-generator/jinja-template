@@ -4,14 +4,6 @@
 
 <br />
 
-## 🚀 `PROMO` [Spring Boost Campaign](https://appseed.us/discounts/) `50%OFF`
-
-> The **discount is applicable to all products and licenses** (no stock limits) until `15.MAR`
-
-[![Spring Boost Campaign](https://user-images.githubusercontent.com/51070104/221118889-171c5afc-4d01-402b-8681-61b37338e26c.png)](https://appseed.us/discounts/)
-
-<br />
-
 ## Free Sample: [Material Kit 2](https://appseed.us/product/material-kit/flask/)
 
 Open-Source **Flask** starter coded on top of **Material Kit 2** (free version). For newcomers, Material Kit is a **Free Bootstrap 5 UI Kit** with a fresh, new design inspired by Google's material design. This simple Flask project can be used to code beautiful websites with a modern design.
