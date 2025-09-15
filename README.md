@@ -40,7 +40,7 @@ For more information about this template engine please access the links:
 
 <br />
 
-## Free Flask/Jinja Templates
+## [Free Flask/Jinja Templates]()
 
 A curated list with starters built on top of Jinja and Flask - all actively supported by the **App-Generator** support team. 
 
